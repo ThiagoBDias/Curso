@@ -1,0 +1,1 @@
+console.log('"NOME Thiago baitsta dias"Estou apredendo JavaScript ás', 10 ,'da manhã.');

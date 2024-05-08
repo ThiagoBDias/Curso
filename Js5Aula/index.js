@@ -13,3 +13,4 @@ const sobrenomeAluno = null;
 const aprovado = false; // boolear  true ou false
 // para poder ver o tipo da variavel vc pode typeof 
 console.log(typeof nome);
+

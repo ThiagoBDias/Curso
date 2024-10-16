@@ -1,0 +1,10 @@
+let varA = "a";
+let varB = "b";
+let varC = "c";
+let secundaria  ="";
+varB = secundaria ;
+varA = varB ;
+secundaria = varA;
+varC = secundaria ;
+varA = varC;
+secundaria = varA;

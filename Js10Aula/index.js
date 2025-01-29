@@ -11,5 +11,3 @@ console.log(num2);
 
 let num3= math.ceil(num1);
 
-console.log(num3);
-

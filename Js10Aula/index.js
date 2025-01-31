@@ -17,3 +17,8 @@
 //math.min faz vc encontrar o numero menor do seu pedido 
 //console.log(math.min(1,2,3,5,6,4,8,542));
 
+// gerar um numero aletatorio  usando o math.random
+//console.log(math.random());
+
+const aletatorio = math.random();
+console.log(aletatorio);

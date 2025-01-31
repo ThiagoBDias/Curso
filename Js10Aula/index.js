@@ -10,4 +10,8 @@ console.log(num2);
 let num3 = math.round();
 console.log(num2);
 
+//math.max faz vc encontrar o numero maior do seu pedido 
+
+console.log(math.max(1,2,3,5,6,4,8,542));
 //
+console.log(math.min(1,2,3,5,6,4,8,542));

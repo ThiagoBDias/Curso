@@ -20,5 +20,5 @@
 // gerar um numero aletatorio  usando o math.random
 //console.log(math.random());
 
-const aletatorio = math.random();
-console.log(aletatorio);
+//const aletatorio = math.roud(math.random() * (10 - 5) + 5);
+//console.log(aletatorio);

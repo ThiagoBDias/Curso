@@ -22,3 +22,7 @@
 
 //const aletatorio = math.roud(math.random() * (10 - 5) + 5);
 //console.log(aletatorio);
+//pow faz elevado 
+//console.log(math.pow(2,10));
+
+

@@ -1,3 +1,6 @@
-function saudacao(){
-  return(saudacao);
+
+function saudacao(nome){
+ console.log(`Bom dia ${nome}!`);
 }
+
+saudacao('ze');

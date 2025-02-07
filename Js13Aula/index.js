@@ -1,6 +1,7 @@
 
 function saudacao(nome){
  console.log(`Bom dia ${nome}!`);
+ return 123456;
 }
 
-saudacao('ze');
+const variavel = saudacao('ze');

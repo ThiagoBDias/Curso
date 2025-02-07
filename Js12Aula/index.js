@@ -23,6 +23,12 @@ renover do começo do inicio
 
 alunos.shift();
 
+verificar se e um array ele vai retornar true 
+
+ instanceof array
+
+ console.log(alunos instanceof Array);
+
 */
 
 const alunos = ['maria', 'ze','felipe'];

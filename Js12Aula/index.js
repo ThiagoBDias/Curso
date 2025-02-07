@@ -14,7 +14,15 @@ cada coxite tem sua possição que seria do incio de 0
   adicionar no começo 
   unshift 
 alunos.unshift('ze');
-  
+
+remover  no arraya
+podemos colocar ele em uma variavel 
+alunos.pop();
+
+renover do começo do inicio 
+
+alunos.shift();
+
 */
 
 const alunos = ['maria', 'ze','felipe'];

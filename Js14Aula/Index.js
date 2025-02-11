@@ -7,11 +7,22 @@ div#card>img+p+button
   Vamos criar um objeto
 utilizando as chaves 
  const pessoa {};
-*/ 
+*/
+/* 
 const pessoal = {
   nome:'luiz',
   sobrenome:'mix',
   idades: 25
 };
+*/
+
+function criarPessoa (nome, sobrenome, idade ){
+  return{
+    nome:nome,
+    sobrenome:sobrenome,
+    idade:idade
+  };
+}
+const pessoal = criarPessoa('luz','maria',52);
 
 console.log(pessoal);

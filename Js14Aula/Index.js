@@ -17,11 +17,7 @@ const pessoal = {
 */
 
 function criarPessoa (nome, sobrenome, idade ){
-  return{
-    nome:nome,
-    sobrenome:sobrenome,
-    idade:idade
-  };
+  return{ nome, sobrenome,idade };
 }
 const pessoal = criarPessoa('luz','maria',52);
 

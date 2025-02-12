@@ -13,6 +13,10 @@ const pessoal = {
   nome:'luiz',
   sobrenome:'mix',
   idades: 25
+
+  incrementaIdade(){
+  this.idade++;
+  }
 };
 */
 

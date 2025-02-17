@@ -1,3 +1,5 @@
 function meuEscopo(){
-  let nome ='';
+  const form = document.querySelector('.form');
+  
+
 }

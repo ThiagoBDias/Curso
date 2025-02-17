@@ -12,4 +12,5 @@ Referencia (Mutavel) - array object function
 
 let a = [1,2,3];
 let b = a; 
+console.log(a,b);
 

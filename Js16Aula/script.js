@@ -17,6 +17,7 @@ function meuEscopo(){
         altura: altura.value
        });
         console.log(pessoas);
+        
    }
 
   form.addEventListener('submit', recebeEventoForm);

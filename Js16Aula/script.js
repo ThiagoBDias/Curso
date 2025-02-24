@@ -8,3 +8,4 @@ function meuEscopo(){
 */
   form.addEventListener('submit');
 }
+meuEscopo();

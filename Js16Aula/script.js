@@ -6,6 +6,10 @@ function meuEscopo(){
     alert(1);
   };
 */
-  form.addEventListener('submit');
+function recebeEventoForm (evento){
+   evento.preventDefault();
+   console.log(`Form não foi ennviado `$);
+}
+  form.addEventListener('submit', recebeEventoForm);
 }
 meuEscopo();

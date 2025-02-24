@@ -6,10 +6,11 @@ function meuEscopo(){
     alert(1);
   };
 */
-function recebeEventoForm (evento){
-   evento.preventDefault();
-   console.log(`Form não foi ennviado `$);
-}
+     function recebeEventoForm (evento){
+       evento.preventDefault();
+        console.log(`Form não foi ennviado ${contador} `);
+      Contador++;
+   }
   form.addEventListener('submit', recebeEventoForm);
 }
 meuEscopo();

@@ -8,7 +8,7 @@
 === igualdade estrita 
 !=direfente 
 !===diferente estrito 
-*/ a
+*/ 
 
 console.log(10>5);
 console.log(11>=5);

@@ -8,8 +8,11 @@
 === igualdade estrita 
 !=direfente 
 !===diferente estrito 
+
+!-- 
 */ 
 
 console.log(10>5);
 console.log(11>=5);
+
 teste

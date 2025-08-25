@@ -9,6 +9,8 @@
 
 console.log(true && true );
 
+console.log('Luiz Otávio' && true && 'teste');
+
 console.log(!!true);
 
 

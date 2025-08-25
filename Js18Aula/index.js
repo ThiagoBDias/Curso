@@ -12,8 +12,9 @@
 
 */
 
-const corUsuario = null;
-const corPadrão = 'red';
+const corUsuario = 'Vermelho';
+const corPadrão = corUsuario || 'preta';
 
+console.log(corPadrão);
 
 

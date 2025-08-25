@@ -2,6 +2,8 @@
     entre  0- 11 - Bom dia 
     Entre 12 - 17 - Boa tarde
     Entre as 18 - 23- Boa noite
+
+    Se for so else e para finalizar 
 */ 
 
 const hora = 13;

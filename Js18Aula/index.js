@@ -12,6 +12,8 @@
 
 */
 
-console.log(0 || false || null ||'luiz '||true);
-    
+const corUsuario = null;
+const corPadrão = 'red';
+
+
 

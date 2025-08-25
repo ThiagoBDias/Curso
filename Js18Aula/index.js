@@ -18,3 +18,6 @@ const corPadrão = corUsuario || 'preta';
 console.log(corPadrão);
 
 
+if(hora<12){
+    console.log('Bom dia');
+}

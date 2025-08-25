@@ -5,12 +5,13 @@
  || -> or -> ou  todas tem que ser falsa para ser vdd
  1 -> NOT -> NÃO
 
+ False e o valor literal falço 
+
+ || -> true &&  vai retornar o verdadeira 
+
+
 */
 
-console.log(true && true );
-
-console.log('Luiz Otávio' && true && 'teste');
-
-console.log(!!true);
-
+console.log(0 || false || null ||'luiz '||true);
+    
 

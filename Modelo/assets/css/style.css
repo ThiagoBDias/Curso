@@ -1,4 +1,23 @@
-body{
+:root{
+    --primary-color: rgb(24, 97, 113);
+}
 
-    background: red;
+*{
+    box-sizing: border-box;
+    outline: 0;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: var(--primary-color);
+
+}
+
+.container{
+    max-width: 640px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 20px;
 }
